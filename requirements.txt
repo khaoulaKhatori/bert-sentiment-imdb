@@ -1,0 +1,12 @@
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+torch
+lime
+matplotlib
+seaborn
+bertviz
+pandas
+numpy
